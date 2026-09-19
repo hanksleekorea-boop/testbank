@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "project": "아카이비아",
+    "timestamp": "2026-09-19T15:04:21.028Z",
+    "version": "v3.3"
+  },
+  "engine_A": {
+    "domain_match": [
+      "TestBank",
+      "SaaS",
+      "Aggregator"
+    ],
+    "target_audience": "Global Users, Professionals",
+    "key_features": [
+      "연도별 기출",
+      "오답 노트",
+      "AI 취약점 분석"
+    ],
+    "market_size_estimate": "$10B+",
+    "core_problem_solved": "방대한 기출문제와 자료를 아카이빙하는 테스트뱅크."
+  }
+}
